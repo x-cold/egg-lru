@@ -12,7 +12,7 @@
     "egg-lru"
   ],
   "dependencies": {
-    "lru-cache": "^4.1.1"
+    "lru-cache": "^5.1.1"
   },
   "devDependencies": {
     "autod": "^3.0.1",
